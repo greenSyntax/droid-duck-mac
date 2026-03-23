@@ -2,6 +2,8 @@
 
 A native macOS file explorer for connected Android devices, built with Swift and SwiftUI. Browse, preview, and download files from your Android phone or tablet directly from your Mac — no third-party apps required.
 
+![Alt Text](dist/app.png)
+
 ---
 
 ## Features
